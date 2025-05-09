@@ -9,7 +9,7 @@ body {
 /* La balise Header(Accueil/index.html, produit, apropos et contact) */
 
 header {
-    background-color: #333;
+    background-color: hsl(61, 95%, 48%);
     padding: 10px 20px;
     color: white;
     display: flex;
@@ -63,14 +63,14 @@ header nav ul li a {
     color: #f9f9f9;
 }
 
-#mossolessi {
-    color: rgb(130, 3%, 56%);
+#kakura {
+    color: blanchedalmond;
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
 }
 
 button {
-    background-color: hsl(130, 3%, 56%);
+    background-color: hsl(52, 93%, 48%);
     color: white;
     border: none;
     padding: 10px 20px;
@@ -79,7 +79,7 @@ button {
 }
 
 button:hover {
-    background-color: hsl(130, 3%, 56%);
+    background-color: hsl(52, 93%, 48%);
 }
 
 .logo {
@@ -114,7 +114,7 @@ nav {
 }
 
 .carte-produit {
-    background-color: #f9f9f9;
+    background-color: hsl(52, 93%, 48%);
     border-radius: 15px;
     width: 250px;
     padding: 20px;
@@ -133,24 +133,24 @@ nav {
 }
 
 .carte-produit h3 {
-    color: #696a69;
+    color: white;
     margin: 10px 0;
     font-size: 1.5em;
 }
 
 .carte-produit p {
     font-size: 1em;
-    color: #555;
+    color: white;
     margin-bottom: 10px;
 }
 
 .prix {
     font-weight: bold;
-    color: #333;
+    color: hsl(52, 93%, 48%);
 }
 
 .carte-produit button {
-    background-color: #b9bdb9;
+    background-color: hsl(52, 93%, 48%);
     color: white;
     padding: 10px 20px;
     border: none;
@@ -161,7 +161,7 @@ nav {
 }
 
 .carte-produit button:hover {
-    background-color: #b9bdb9;
+    background-color: white;
 }
 
 
@@ -185,7 +185,7 @@ nav {
 
 .vision-mission h2 {
     font-size: 2.8em;
-    color: #4CAF50;
+    color: hsl(52, 93%, 48%);
     margin-bottom: 50px;
     font-weight: bold;
 }
@@ -198,9 +198,9 @@ nav {
 }
 
 .bloc {
-    background: #f9f9f9;
+    background: hsl(52, 93%, 48%);
     border-radius: 20px;
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
     padding: 25px;
     width: 320px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -208,7 +208,7 @@ nav {
 
 .bloc:hover {
     transform: translateY(-10px);
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 12px 24px white;
 }
 
 .bloc img {
@@ -216,12 +216,12 @@ nav {
     height: 180px;
     object-fit: cover;
     border-radius: 15px 15px 0 0;
-    border: 3px solid #4CAF50;
+    border: 3px solid hsl(52, 93%, 48%);
     margin-bottom: 15px;
 }
 
 .bloc h3 {
-    color: #4CAF50;
+    color: hsl(52, 93%, 48%);
     font-size: 1.7em;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -247,7 +247,7 @@ nav {
 /* Section Pourquoi Choisir Mossolessi (Accueil/index.html) */
 
 .choisir-mossolessi {
-    background-color: #4CAF50;
+    background-color: hsl(52, 93%, 48%);
     padding: 80px 20px;
     color: #fff;
 }
@@ -314,7 +314,7 @@ nav {
 .icone {
     width: 60px;
     height: 60px;
-    background-color: #4CAF50;
+    background-color: hsl(52, 93%, 48%);
     color: #fff;
     display: flex;
     align-items: center;
@@ -340,7 +340,7 @@ nav {
 
 .contenu-carte h3,
 .contenu-carte h4 {
-    color: #4CAF50;
+    color: hsl(52, 93%, 48%);
     margin-bottom: 15px;
     font-size: 1.8em;
 }
@@ -359,7 +359,7 @@ nav {
 .divider {
     width: 60%;
     height: 2px;
-    background-color: #4CAF50;
+    background-color: hsl(52, 93%, 48%);
     margin: 20px auto;
     border-radius: 2px;
 }
@@ -372,7 +372,7 @@ nav {
 
 .btn-contacter {
     display: inline-block;
-    background-color: #4CAF50;
+    background-color: hsl(52, 93%, 48%);
     color: #fff;
     padding: 12px 30px;
     border-radius: 30px;
@@ -382,7 +382,7 @@ nav {
 }
 
 .btn-contacter:hover {
-    background-color: #388E3C;
+    background-color: hsl(52, 93%, 40%);
 }
 
 
@@ -413,7 +413,7 @@ nav {
 
 .equipe h2 {
     font-size: 2.8em;
-    color: #4CAF50;
+    color: hsl(52, 93%, 48%);
     margin-bottom: 50px;
     font-weight: bold;
 }
@@ -444,7 +444,7 @@ nav {
     height: 120px;
     object-fit: cover;
     border-radius: 50%;
-    border: 4px solid #4CAF50;
+    border: 4px solid hsl(52, 93%, 48%);
     margin-bottom: 15px;
 }
 
@@ -474,7 +474,7 @@ nav {
 /* Footer (Accueil/index.html, produit, apropos et contact)*/
 
 footer {
-    background-color: #333;
+    background-color: hsl(52, 93%, 48%);
     color: white;
     text-align: center;
     padding: 10px;
@@ -504,7 +504,7 @@ footer {
 }
 
 .contact h1 {
-    color: #4CAF50;
+    color: hsl(52, 93%, 48%);
     text-align: center;
     margin-bottom: 30px;
 }
@@ -519,7 +519,7 @@ footer {
 }
 
 .contact-info a {
-    color: #4CAF50;
+    color: hsl(52, 93%, 48%);
     text-decoration: none;
 }
 
@@ -550,13 +550,13 @@ footer {
 
 .contact-form input:focus,
 .contact-form textarea:focus {
-    border-color: #4CAF50;
+    border-color: hsl(52, 93%, 48%);
     outline: none;
 }
 
 .contact-form button.submit-btn {
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: hsl(52, 93%, 48%);
     color: white;
     border: none;
     border-radius: 4px;
@@ -565,7 +565,7 @@ footer {
 }
 
 .contact-form button.submit-btn:hover {
-    background-color: #45a049;
+    background-color: hsl(52, 93%, 48%);
 }
 
 
@@ -578,7 +578,7 @@ footer {
 /*-------------------------*/
 
 .apropos-hero {
-    background-color: #4CAF50;
+    background-color: hsl(52, 93%, 48%);
     color: white;
     text-align: center;
     padding: 60px 20px;
@@ -632,7 +632,7 @@ footer {
 }
 
 .produit {
-    background-color: white;
+    background-color: hsl(52, 93%, 48%);
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -649,7 +649,7 @@ footer {
 .produit h3 {
     font-size: 24px;
     margin: 15px 0 10px;
-    color: #4CAF50;
+    color: hsl(52, 93%, 48%);
 }
 
 .produit p {
@@ -669,7 +669,7 @@ footer {
 /* Style de la bannière d'introduction produits */
 
 .produits-hero {
-    background-color: #4CAF50;
+    background-color: hsl(52, 93%, 48%);
     color: white;
     text-align: center;
     padding: 50px 20px;
@@ -700,7 +700,7 @@ footer {
 /* Style de chaque carte de produit */
 
 .produit {
-    background-color: white;
+    background-color: hsl(52, 93%, 48%);
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
@@ -717,7 +717,7 @@ footer {
 .produit h3 {
     margin: 15px 0 5px;
     font-size: 24px;
-    color: #4CAF50;
+    color: hs #555;
 }
 
 .produit p {
