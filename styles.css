@@ -146,7 +146,7 @@ nav {
 
 .prix {
     font-weight: bold;
-    color: hsl(52, 93%, 48%);
+    color:hsl(120, 70%, 35%);
 }
 
 .carte-produit button {
@@ -185,7 +185,7 @@ nav {
 
 .vision-mission h2 {
     font-size: 2.8em;
-    color: hsl(52, 93%, 48%);
+    color:hsl(120, 70%, 35%);
     margin-bottom: 50px;
     font-weight: bold;
 }
@@ -198,7 +198,7 @@ nav {
 }
 
 .bloc {
-    background: hsl(52, 93%, 48%);
+    background: hsl(120, 70%, 35%);
     border-radius: 20px;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
     padding: 25px;
@@ -340,7 +340,7 @@ nav {
 
 .contenu-carte h3,
 .contenu-carte h4 {
-    color: hsl(52, 93%, 48%);
+    color:  hsl(204, 93%, 48%);
     margin-bottom: 15px;
     font-size: 1.8em;
 }
@@ -359,7 +359,7 @@ nav {
 .divider {
     width: 60%;
     height: 2px;
-    background-color: hsl(52, 93%, 48%);
+    background-color: hsl(204, 93%, 48%);
     margin: 20px auto;
     border-radius: 2px;
 }
@@ -372,7 +372,7 @@ nav {
 
 .btn-contacter {
     display: inline-block;
-    background-color: hsl(52, 93%, 48%);
+    background-color: hsl(204, 93%, 48%);
     color: #fff;
     padding: 12px 30px;
     border-radius: 30px;
@@ -382,7 +382,7 @@ nav {
 }
 
 .btn-contacter:hover {
-    background-color: hsl(52, 93%, 40%);
+    background-color:  hsl(204, 93%, 48%);
 }
 
 
