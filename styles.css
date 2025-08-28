@@ -474,7 +474,7 @@ nav {
 /* Footer (Accueil/index.html, produit, apropos et contact)*/
 
 footer {
-    background-color: hsl(204, 93%, 48%);
+    background-color:  hsl(120, 70%, 35%);
     color: white;
     text-align: center;
     padding: 10px;
@@ -631,7 +631,7 @@ footer {
 }
 
 .produit {
-    background-color: hsl(52, 93%, 48%);
+    background-color:  hsl(120, 70%, 35%);
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -648,7 +648,7 @@ footer {
 .produit h3 {
     font-size: 24px;
     margin: 15px 0 10px;
-    color: hsl(52, 93%, 48%);
+    color:  hsl(120, 70%, 35%);
 }
 
 .produit p {
@@ -668,7 +668,7 @@ footer {
 /* Style de la bannière d'introduction produits */
 
 .produits-hero {
-    background-color: hsl(52, 93%, 48%);
+    background-color:  hsl(120, 70%, 35%);
     color: white;
     text-align: center;
     padding: 50px 20px;
@@ -699,7 +699,7 @@ footer {
 /* Style de chaque carte de produit */
 
 .produit {
-    background-color: hsl(52, 93%, 48%);
+    background-color: hsl(120, 70%, 35%);
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
