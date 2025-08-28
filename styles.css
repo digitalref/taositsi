@@ -577,7 +577,7 @@ footer {
 /*-------------------------*/
 
 .apropos-hero {
-    background-color: hsl(204, 93%, 48%);
+    background-color: hsl(120, 70%, 35%);
     color: white;
     text-align: center;
     padding: 60px 20px;
@@ -654,7 +654,7 @@ footer {
 .produit p {
     padding: 0 15px 20px;
     font-size: 16px;
-    color: #555;
+    color: white;
 }
 
 
@@ -716,20 +716,20 @@ footer {
 .produit h3 {
     margin: 15px 0 5px;
     font-size: 24px;
-    color: hs #555;
+    color: hs white;
 }
 
 .produit p {
     padding: 0 15px;
     font-size: 16px;
-    color: #555;
+    color: white;
 }
 
 .produit .prix {
     display: block;
     margin: 15px 0;
     font-size: 18px;
-    color: #333;
+    color: white;
     font-weight: bold;
 }
 
